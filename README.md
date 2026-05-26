@@ -4,7 +4,7 @@
 
 * **Institución:** Tecnológico de Estudios Superiores del Oriente del Estado de México
 * **División:** Ingeniería en Sistemas Computacionales
-* **Asignatura:** Administración de Servidores
+* **Asignatura:** TALLER DE SISTEMAS OPERATIVOS
 * **Nombre de integrantes:**
 1.  Juan Sebastian Flores Cruz
 2.  Garcia Oceguera Josue Alejandro
